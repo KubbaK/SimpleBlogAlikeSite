@@ -1,0 +1,18 @@
+.Box{
+    width: 850px;
+    align-items: center;
+    justify-content: space-between;
+    height: auto;
+    margin-bottom: 5px;
+    text-align: center;
+    display:inline-block;
+    margin-right:10px;
+}
+.h3{
+    display: block;
+  width: 80%;
+  margin-left: 85px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
